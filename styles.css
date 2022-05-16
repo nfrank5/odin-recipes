@@ -1,0 +1,26 @@
+h1{
+    text-align:center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 10vmin;
+    color: rgb(0,0,0);
+    border-radius: 8px;
+    border: 3px;
+    border-style:solid;
+    background-image: url("https://img.freepik.com/free-vector/futhark-norse-viking-runes-talismans-nordic-pagan-seamless-pattern_53562-7902.jpg?size=338&ext=jpg");
+}
+
+img{
+    width: 400px;
+    height: auto;
+    border-radius: 8px;
+    border: 3px;
+    border-style:solid;
+    text-align:center;
+    display: block;
+    margin: 0 auto;
+}
+
+.sideul>li{
+    margin-left: 10vmax;
+    margin-top: 5vmax;
+}
