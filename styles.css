@@ -21,6 +21,26 @@ img{
 }
 
 .sideul>li{
-    margin-left: 10vmax;
-    margin-top: 5vmax;
+    background-color: rgb(103, 101, 101);
+    text-align: center;
+    padding: 5px 5px 5px;
+    margin: 1px auto;
+    border: 1px;
+    border-style: solid;
+    list-style: none;
+
 }
+
+.sideul>li a:hover {
+    background-color: rgb(66, 28, 40);
+    color: #fff;
+  }
+
+  ul{
+    margin: -1rem 0.5rem 1rem -2rem;
+  }
+
+  a {
+    text-decoration: none;
+    color: black;
+  }
